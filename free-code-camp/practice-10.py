@@ -1,2 +1,2 @@
-counts = { 'quincy' : 1 , 'mrugesh' : 42, 'beau': 100, '0': 10}
-print(counts.get('krsi', 0))
+z = (5,4,3)
+z[2]= 0
