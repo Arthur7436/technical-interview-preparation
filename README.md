@@ -1,6 +1,6 @@
 # Technical interview preparation
 
-I would like to have this file as evidence of my own progress in learning a brand new coding language such as Python. 
+I would like to have this file as evidence of my own progress in learning a brand new coding language such as Python 3. 
 
 Context: There is a technical interview coming in exactly 2 weeks and I would like to look back at this repository when the 2 weeks are over. I desire to understand the basic concepts of programming and would like to work autonomously once the foundations have been laid.
 
