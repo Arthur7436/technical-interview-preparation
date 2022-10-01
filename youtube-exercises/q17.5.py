@@ -1,10 +1,12 @@
 # write a program to find an area of a triangle
-from cmath import sqrt
-import math
 
-a = int(input('a = '))
-b = int(input('b = '))
-c = int(input('c = '))
+# Area of triangle = 0.5 * height * base
+
+height = int(input('Height(cm): '))
+base = int(input('Base(cm): '))
+
+area = 0.5 * height * base
+print('Area of triangle: ',area,'cm^2')
 
 
 
