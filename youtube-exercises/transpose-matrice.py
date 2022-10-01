@@ -1,4 +1,4 @@
-# write a program to transpose the given matrix
+# write a program to transpose the given matrice
 # E.g.
 # x = [[1, 2, 3],[4, 5, 6]]
 # transpose = [[1,4],[2,5],[3,6]]
