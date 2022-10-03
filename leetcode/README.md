@@ -1,4 +1,4 @@
 # Leetcode
 
-Purpose of directory:
+**Purpose of directory:**
 + Record questions that were completed
