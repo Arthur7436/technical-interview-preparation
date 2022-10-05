@@ -1,4 +1,4 @@
-# Technical interview preparation
+# Technical interview-I preparation
 
 I would like to have this file as evidence of my own progress in learning a brand new coding language such as Python 3. 
 

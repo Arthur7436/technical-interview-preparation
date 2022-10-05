@@ -1,4 +1,4 @@
-# Technical interview preparation
+# Technical interview-II preparation
 
 **Purpose of directory**
 + Place all practice questions that are related to JavaScript here
