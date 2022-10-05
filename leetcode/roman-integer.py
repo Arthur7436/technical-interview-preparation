@@ -42,6 +42,12 @@
 # s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
 # It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 
+# pseudocode
+# 1. split the input into individual letters
+# 2. make letters equivalent to their numerical values
+# 3. if letter is smaller than the next, subtract and continue
+# 4. output the numerical value
+
 romandict = {
     'I': 1,
     'V': 5,
@@ -52,7 +58,11 @@ romandict = {
     'M': 1000
     }
 
-if 
+x = input('Enter a roman numeral: ')
+y = x.split()
+print(y)
+    
+    
     
 
         
